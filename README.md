@@ -1,3 +1,9 @@
+## Go
+
+ - Memmory Management
+  - Go has automatic garbage collection.
+  - You can use defer to ensure functions are executed when the surrounding function exits (often used for closing files, unlocking mutexes, etc.).
+
 ## Standard Library
  - fmt: For formatted I/O.
  - math: For basic mathematical operations.
